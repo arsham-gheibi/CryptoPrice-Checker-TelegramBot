@@ -9,7 +9,7 @@
 
 ### By the time, Other Exchanges will be added
 
-### this is my University🏫 project and i made it in 1 hour, So don't except much from it 😄
+### This is my University🏫 project and i made it in 1 hour, So don't except much from it 😄
 
 ## How to run the Project ?
 
