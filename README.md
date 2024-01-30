@@ -7,7 +7,7 @@
 - **[Bybit](https://bybit.com)**
 - **[BingX](https://bingx.com)**
 
-### By the time, Other Exchanges will be added
+#### By the time, Other Exchanges will also be added
 
 ### This is my University🏫 project and i made it in 1 hour, So don't except much from it 😄
 
