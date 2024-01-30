@@ -27,7 +27,7 @@ cp .env.sample .env
 
 ### 3. Create an Telegram Bot in [BotFather](https://t.me/BotFather) and put the Telegram access token of YOUR bot in the .env file
 
-### 4. Create and Python Virtual Env
+### 4. Create an Python Virtual Environment
 
 ```sh
 python3.11 -m venv env
